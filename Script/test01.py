@@ -3,7 +3,7 @@ import time
 from appium import webdriver
 from selenium.webdriver.common.by import By
 
-from toolsApp.swipetool import moveDemo
+from Tools.swipetool import moveDemo
 
 desired_caps = {}
 # 系统

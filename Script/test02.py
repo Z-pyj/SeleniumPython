@@ -1,3 +1,5 @@
+import heapq
+
 portfolio = [
     {'name': 'IBM', 'shares': 100, 'price': 91.1},
     {'name': 'AAPL', 'shares': 50, 'price': 543.22},
@@ -6,3 +8,5 @@ portfolio = [
     {'name': 'YHOO', 'shares': 45, 'price': 16.35},
     {'name': 'ACME', 'shares': 75, 'price': 115.65}
 ]
+expensive = heapq.nlargest(3, portfolio, key=lambda s: s['price'])
+print(expensive)
