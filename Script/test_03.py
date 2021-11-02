@@ -3,7 +3,7 @@ import pytest
 
 class TestLogin:
     def setup_class(self):
-        print("初始化操作开始----->>>>")
+        print("初始化操作开始1----->>>>")
 
     def teardown_class(self):
         print("清理工作开始---->>>>")
