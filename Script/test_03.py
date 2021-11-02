@@ -6,7 +6,7 @@ class TestLogin:
         print("初始化操作开始1----->>>>")
 
     def teardown_class(self):
-        print("清理工作开始---->>>>")
+        print("清理工作开始1---->>>>")
 
     def test_a(self):
         print("执行test_a")
