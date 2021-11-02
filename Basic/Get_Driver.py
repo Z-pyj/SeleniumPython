@@ -13,7 +13,7 @@ class GetDriver:
     @classmethod
     def init_driver(cls):
         # 启动参数
-        desired_caps = {'platformName': 'Android', 'platformVersion': '11', 'deviceName': 'b8b46013',
+        desired_caps = {'platformName': 'Android', 'platformVersion': '11', 'noReset': True, 'deviceName': 'b8b46013',
                         'appPackage': 'com.android.settings', 'appActivity': '.MainSettings',
                         'automationName': 'UIAutomator2', 'unicodeKeyboard': True, 'resetKeyboard': True}
         # 手机驱动对象
