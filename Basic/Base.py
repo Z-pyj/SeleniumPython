@@ -10,8 +10,8 @@ class Base(object):
     driver = None
 
     def __init__(self, driver):
-        log.info("初始化driver:{}".format(self.driver))
         self.driver = driver
+        log.info("初始化driver:{}".format(self.driver))
 
     def base_find_element(self, loc, timeout=10):
         log.info("正在查找元素：{}".format(loc))
