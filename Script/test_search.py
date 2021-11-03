@@ -32,7 +32,6 @@ class TestSearch:
 
     def teardown_class(self):
         # 结束driver
-        log.info("正在结束driver：{}".format(self.driver))
         GetDriver.quit_driver()
 
 
