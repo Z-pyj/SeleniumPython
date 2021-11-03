@@ -7,7 +7,7 @@ log = GatLog.get_log()
 
 class GetDriver:
     # 设置类属性
-    driver = None
+    # driver = None
 
     # 获取driver
     @classmethod
