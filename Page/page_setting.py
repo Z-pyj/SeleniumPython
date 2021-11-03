@@ -1,3 +1,5 @@
+import allure
+
 from Basic.Base import Base
 from selenium.webdriver.common.by import By
 import Page
@@ -9,6 +11,7 @@ class Search_Page:
         self.driver = driver
         # 实例化二次封装的类，用到封装好的操作函数
         self.base_object = Base(self.driver)
+
 
     def input_search_text(self, text):
         self.base_object.base_click_element(Page.search_button_before)
