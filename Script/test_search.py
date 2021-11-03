@@ -32,13 +32,6 @@ class TestSearch:
             UitilTools(self.driver).get_screenshot_file(e)
             raise e
 
-    # def test_activity(self):
-    #     try:
-    #         self.driver.start_activity('com.liinji.liinjias', 'activity.MainNewActivity')
-    #     except Exception as e:
-    #         UitilTools(self.driver).get_screenshot_file(e)
-    #         raise e
-
     def teardown_class(self):
         # 结束driver
         GetDriver.quit_driver()
