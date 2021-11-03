@@ -25,17 +25,18 @@ class TestSearch:
             # 在设置中搜索
             sp = Search_Page(self.driver)
             sp.input_search_text(input_text)
-            sp.search_cancel()
+            self.driver.start_activity('com.android.settings', '.MainSettings')
+            # sp.search_cancel()
         except Exception as e:
             UitilTools(self.driver).get_screenshot_file(e)
             raise e
 
-    def test_activity(self):
-        try:
-            self.driver.start_activity('com.liinji.liinjias', 'activity.MainNewActivity')
-        except Exception as e:
-            UitilTools(self.driver).get_screenshot_file(e)
-            raise e
+    # def test_activity(self):
+    #     try:
+    #         self.driver.start_activity('com.liinji.liinjias', 'activity.MainNewActivity')
+    #     except Exception as e:
+    #         UitilTools(self.driver).get_screenshot_file(e)
+    #         raise e
 
     def teardown_class(self):
         # 结束driver
