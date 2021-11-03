@@ -27,7 +27,7 @@ class TestSearch:
         try:
             # 在设置中搜索
             sp = Search_Page(self.driver)
-            allure.attach('输入搜索内容', '输入搜索内容为%s' % input_text)
+
             sp.input_search_text(input_text)
             allure.attach('点击取消键', '取消搜索')
             sp.search_cancel()

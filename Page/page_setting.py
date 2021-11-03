@@ -14,12 +14,16 @@ class Search_Page:
 
     @allure.step('我是测试步骤001')
     def input_search_text(self, text):
+        allure.attach('点击输入框', '输入的前置条件')
         self.base_object.base_click_element(Page.search_button_before)
+        allure.attach('输入搜索内容', '输入搜索内容为%s' % text)
         self.base_object.base_input_text(Page.search_button_after, text)
 
     def search_result(self):
+
         return self.base_object.base_find_element(Page.search_result)
 
     @allure.step('我是测试步骤002')
     def search_cancel(self):
+        allure.attach('点击取消键', '取消搜索')
         self.base_object.base_click_element(Page.search_cancel)
