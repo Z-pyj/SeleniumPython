@@ -26,7 +26,8 @@ class TestSearch:
             sp = Search_Page(self.driver)
             sp.input_search_text(input_text)
             self.driver.start_activity('com.android.settings', '.MainSettings')
-            # sp.search_cancel()
+            sp.input_search_text(input_text)
+            sp.search_cancel()
         except Exception as e:
             UitilTools(self.driver).get_screenshot_file(e)
             raise e
