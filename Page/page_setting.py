@@ -12,7 +12,7 @@ class Search_Page:
         # 实例化二次封装的类，用到封装好的操作函数
         self.base_object = Base(self.driver)
 
-
+    @allure.step('我是测试步骤001')
     def input_search_text(self, text):
         self.base_object.base_click_element(Page.search_button_before)
         self.base_object.base_input_text(Page.search_button_after, text)
@@ -20,5 +20,6 @@ class Search_Page:
     def search_result(self):
         return self.base_object.base_find_element(Page.search_result)
 
+    @allure.step('我是测试步骤002')
     def search_cancel(self):
         self.base_object.base_click_element(Page.search_cancel)

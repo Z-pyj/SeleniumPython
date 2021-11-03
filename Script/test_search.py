@@ -21,7 +21,7 @@ class TestSearch:
 
 
     @pytest.mark.parametrize('test_id,input_text', package_param_data())  # 参数传递三组参数，会运行三次
-    @allure.step('我是测试步骤001')
+
     def test_search(self, test_id, input_text):
 
         try:
