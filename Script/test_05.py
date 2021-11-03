@@ -2,7 +2,7 @@ import allure
 import pytest
 
 
-class Test_allure:
+class TestAllure:
     def setup(self):
         pass
 
