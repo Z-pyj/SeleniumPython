@@ -14,10 +14,9 @@ class GetDriver:
     # 获取driver
     @classmethod
     def init_driver(cls):
-        # # 设置启动参数
-        # desired_caps = {'platformName': 'Android', 'platformVersion': '11', 'noReset': True, 'deviceName': os.system("adb devices"),
-        #                 'appPackage': 'com.android.settings', 'appActivity': '.MainSettings',
-        #                 'automationName': 'UIAutomator2', 'unicodeKeyboard': True, 'resetKeyboard': True}
+        # # 设置启动参数 desired_caps = {'platformName': 'Android', 'platformVersion': '11', 'noReset': True, 'deviceName':
+        # os.system("adb devices"), 'appPackage': 'com.android.settings', 'appActivity': '.MainSettings',
+        # 'automationName': 'UIAutomator2', 'unicodeKeyboard': True, 'resetKeyboard': True,'autoAcceptAlerts':True}
 
         # 积坔启动参数
         desired_caps = {'platformName': 'Android', 'platformVersion': '11', 'noReset': True, 'deviceName': 'b8b46013',
@@ -34,3 +33,4 @@ class GetDriver:
             cls.driver.quit()
             # 注意此处是一个大坑
             cls.driver = None
+

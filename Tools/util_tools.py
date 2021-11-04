@@ -1,6 +1,7 @@
 import base64
 import os
-import time
+from selenium.webdriver.support.wait import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from Tools.get_log import GatLog
 import time
 
@@ -57,6 +58,28 @@ class UitilTools:
                 data = str(base64.b64encode(f.read().encode('utf-8')), 'utf-8')
                 driver.push_file(phone_path, data)
 
+
     def get_screenshot_file(self, e):
         log.info("发生错误:%s，正在截图，请到Image目录下查看".format(self.driver) % e)
         self.driver.get_screenshot_as_file("./Image/{}.png".format(time.strftime("%Y_%m_%d_%H_%M_%S")))
+
+
+    @staticmethod
+    def alwaysAllow(driver, number=5):
+        for i in range(number):
+            loc = ("xpath", "//*[@text='始终允许']")
+            # noinspection PyBroadException
+            try:
+                ele = WebDriverWait(driver, 1, 0.5).until(EC.presence_of_element_located(loc))
+                ele.click()
+            except Exception as e:
+                raise e
+
+    @staticmethod
+    def is_toast_exist(driver, text, timeout=30, poll_frequency=0.5):
+        try:
+            toast_loc = ("xpath", ".//*[contains(@text,'%s')]" % text)
+            WebDriverWait(driver, timeout, poll_frequency).until(EC.presence_of_element_located(toast_loc))
+            return True
+        except Exception as e:
+            raise e

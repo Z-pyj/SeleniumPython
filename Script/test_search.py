@@ -2,7 +2,7 @@ import time
 
 import allure
 import pytest
-
+from selenium.webdriver.support import expected_conditions as EC
 from Page.page_setting import Search_Page
 from Basic.Get_Driver import GetDriver
 from Tools.get_log import GatLog
@@ -18,6 +18,8 @@ class TestSearch:
     def setup_class(self):
         # 初始化driver
         self.driver = GetDriver.init_driver()
+        # 所以弹窗默认允许
+        self.driver.switch_to.alert.accept()
 
     @pytest.mark.parametrize('test_id,input_text', package_param_data())  # 参数传递三组参数，会运行三次
     def test_search(self, test_id, input_text):
@@ -29,7 +31,8 @@ class TestSearch:
             sp.input_search_text(input_text)
             sp.search_cancel()
         except Exception as e:
-            UitilTools(self.driver).get_screenshot_file(e)
+            # UitilTools(self.driver).get_screenshot_file(e)
+            UitilTools.get_screenshot_file(e)
             raise e
 
     def teardown_class(self):
