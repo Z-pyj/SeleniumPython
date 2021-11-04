@@ -1,0 +1,1 @@
+[32mINFO    [0m root:Get_Driver.py:34 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="0f0c9075-2ed0-48b3-b554-32315ae6c695")>

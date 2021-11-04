@@ -1,0 +1,311 @@
+2021-11-02 14:47:24,731 INFO [root] [Base.py (__init__:10] - 初始化driver:<appium.webdriver.webdriver.WebDriver (session="ac230541-93cd-430f-903f-726634643608")>
+2021-11-02 14:47:24,732 INFO [root] [Base.py (base_click_element:19] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 14:47:24,733 INFO [root] [Base.py (base_find_element:14] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 14:47:25,260 INFO [root] [Base.py (base_find_element:14] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 14:47:26,412 INFO [root] [Base.py (base_input_text:26] - 正在输入：WLAN
+2021-11-02 14:47:27,026 INFO [root] [test_search.py (teardown_class:18] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="ac230541-93cd-430f-903f-726634643608")>
+2021-11-02 14:54:22,249 INFO [root] [Base.py (__init__:10] - 初始化driver:<appium.webdriver.webdriver.WebDriver (session="fee1690f-adca-4068-82f7-413a48cac430")>
+2021-11-02 14:54:22,249 INFO [root] [Base.py (base_click_element:19] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 14:54:22,250 INFO [root] [Base.py (base_find_element:14] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 14:54:23,121 INFO [root] [Base.py (base_find_element:14] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 14:54:24,240 INFO [root] [Base.py (base_input_text:26] - 正在输入：WLAN
+2021-11-02 14:54:27,117 INFO [root] [test_search.py (teardown_class:18] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="fee1690f-adca-4068-82f7-413a48cac430")>
+2021-11-02 15:01:16,565 INFO [root] [Base.py (__init__:10] - 初始化driver:<appium.webdriver.webdriver.WebDriver (session="ce2f5a91-afda-499e-abe0-d3c461a9f5d5")>
+2021-11-02 15:01:16,566 INFO [root] [Base.py (base_click_element:19] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 15:01:16,566 INFO [root] [Base.py (base_find_element:14] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 15:01:17,200 INFO [root] [Base.py (base_find_element:14] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 15:01:18,350 INFO [root] [Base.py (base_input_text:26] - 正在输入：WLAN
+2021-11-02 15:01:18,973 INFO [root] [test_search.py (teardown_class:20] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="ce2f5a91-afda-499e-abe0-d3c461a9f5d5")>
+2021-11-02 15:01:53,415 INFO [root] [Base.py (__init__:10] - 初始化driver:<appium.webdriver.webdriver.WebDriver (session="f92d3067-e30a-4d97-a80d-26a23978d945")>
+2021-11-02 15:01:53,416 INFO [root] [Base.py (base_click_element:19] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 15:01:53,417 INFO [root] [Base.py (base_find_element:14] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 15:01:54,054 INFO [root] [Base.py (base_find_element:14] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 15:01:55,192 INFO [root] [Base.py (base_input_text:26] - 正在输入：WLAN
+2021-11-02 15:01:56,279 INFO [root] [test_search.py (teardown_class:20] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="f92d3067-e30a-4d97-a80d-26a23978d945")>
+2021-11-02 15:06:24,633 INFO [root] [Get_Driver.py (init_driver:21] - 初始化driver1:<appium.webdriver.webdriver.WebDriver (session="c8f620fd-db7d-4d33-911d-d959d8c5be8a")>
+2021-11-02 15:06:24,635 INFO [root] [Base.py (__init__:10] - 初始化driver2:<appium.webdriver.webdriver.WebDriver (session="c8f620fd-db7d-4d33-911d-d959d8c5be8a")>
+2021-11-02 15:06:24,635 INFO [root] [Base.py (base_click_element:19] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 15:06:24,636 INFO [root] [Base.py (base_find_element:14] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 15:06:25,179 INFO [root] [Base.py (base_find_element:14] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 15:06:26,305 INFO [root] [Base.py (base_input_text:26] - 正在输入：WLAN
+2021-11-02 15:06:26,916 INFO [root] [test_search.py (teardown_class:20] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="c8f620fd-db7d-4d33-911d-d959d8c5be8a")>
+2021-11-02 15:06:26,918 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="c8f620fd-db7d-4d33-911d-d959d8c5be8a")>
+2021-11-02 15:13:38,930 INFO [root] [test_search.py (teardown_class:27] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="e7c1ff5c-4d6f-4225-825e-ca26be314960")>
+2021-11-02 15:13:38,930 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="e7c1ff5c-4d6f-4225-825e-ca26be314960")>
+2021-11-02 15:17:22,077 INFO [root] [test_search.py (teardown_class:27] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="ba7dee99-76f6-4795-bfa1-93a5b9188334")>
+2021-11-02 15:17:22,078 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="ba7dee99-76f6-4795-bfa1-93a5b9188334")>
+2021-11-02 15:20:07,408 INFO [root] [test_search.py (teardown_class:27] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="72a3f77c-daa1-4ecf-be00-f69d5f1fe57d")>
+2021-11-02 15:24:45,736 INFO [root] [test_search.py (teardown_class:27] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="88ba4990-e8f3-4c95-85d8-8cf2fa3364c2")>
+2021-11-02 15:24:45,737 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="88ba4990-e8f3-4c95-85d8-8cf2fa3364c2")>
+2021-11-02 15:26:21,293 INFO [root] [Base.py (__init__:12] - 初始化driver:None
+2021-11-02 15:26:21,294 INFO [root] [Base.py (base_click_element:21] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 15:26:21,295 INFO [root] [Base.py (base_find_element:16] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 15:26:21,829 INFO [root] [Base.py (base_find_element:16] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 15:26:22,963 INFO [root] [Base.py (base_input_text:28] - 正在输入：WLAN
+2021-11-02 15:26:23,584 INFO [root] [Base.py (base_click_element:21] - 正在点击元素：('xpath', "//*[id='miui:id/search_text_cancel']")
+2021-11-02 15:26:23,585 INFO [root] [Base.py (base_find_element:16] - 正在查找元素：('xpath', "//*[id='miui:id/search_text_cancel']")
+2021-11-02 15:26:34,081 INFO [root] [test_search.py (teardown_class:27] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="82e89e9a-8755-473f-a9fe-e34e4b69a1f6")>
+2021-11-02 15:26:34,082 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="82e89e9a-8755-473f-a9fe-e34e4b69a1f6")>
+2021-11-02 15:27:42,019 INFO [root] [Base.py (__init__:12] - 初始化driver:None
+2021-11-02 15:27:42,023 INFO [root] [Base.py (base_click_element:21] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 15:27:42,024 INFO [root] [Base.py (base_find_element:16] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 15:27:42,543 INFO [root] [Base.py (base_find_element:16] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 15:27:43,678 INFO [root] [Base.py (base_input_text:28] - 正在输入：WLAN
+2021-11-02 15:27:44,302 INFO [root] [Base.py (base_click_element:21] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 15:27:44,303 INFO [root] [Base.py (base_find_element:16] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 15:27:49,234 INFO [root] [test_search.py (teardown_class:27] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="a150c02e-2216-418c-829c-b896018a8b57")>
+2021-11-02 15:27:49,236 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="a150c02e-2216-418c-829c-b896018a8b57")>
+2021-11-02 15:28:06,028 INFO [root] [Base.py (__init__:12] - 初始化driver:None
+2021-11-02 15:28:06,029 INFO [root] [Base.py (base_click_element:21] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 15:28:06,030 INFO [root] [Base.py (base_find_element:16] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 15:28:06,664 INFO [root] [Base.py (base_find_element:16] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 15:28:07,798 INFO [root] [Base.py (base_input_text:28] - 正在输入：WLAN
+2021-11-02 15:28:08,418 INFO [root] [Base.py (base_click_element:21] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 15:28:08,420 INFO [root] [Base.py (base_find_element:16] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 15:28:13,603 INFO [root] [test_search.py (teardown_class:27] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="882bde28-efa7-4946-9368-5f9086699aa1")>
+2021-11-02 15:28:13,604 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="882bde28-efa7-4946-9368-5f9086699aa1")>
+2021-11-02 15:42:54,984 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 15:42:54,985 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 15:42:54,986 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 15:42:55,524 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 15:42:56,658 INFO [root] [Base.py (base_input_text:29] - 正在输入：aaa
+2021-11-02 15:42:57,276 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 15:42:57,276 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 15:42:57,941 INFO [root] [test_search.py (teardown_class:31] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="9576e13c-13d6-455e-92e8-8cbc65de4ae0")>
+2021-11-02 15:42:57,941 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="9576e13c-13d6-455e-92e8-8cbc65de4ae0")>
+2021-11-02 15:43:31,180 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 15:43:31,181 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 15:43:31,181 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 15:43:31,731 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 15:43:32,873 INFO [root] [Base.py (base_input_text:29] - 正在输入：WALN
+2021-11-02 15:43:33,482 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 15:43:33,483 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 15:43:35,278 INFO [root] [test_search.py (teardown_class:31] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="42dc783e-c8ae-419c-bce4-5cc0bb681275")>
+2021-11-02 15:43:35,280 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="42dc783e-c8ae-419c-bce4-5cc0bb681275")>
+2021-11-02 15:45:00,642 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 15:45:00,643 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 15:45:00,644 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 15:45:01,293 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 15:45:02,449 INFO [root] [Base.py (base_input_text:29] - 正在输入：WALN
+2021-11-02 15:45:03,066 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 15:45:03,070 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 15:45:04,856 INFO [root] [test_search.py (teardown_class:32] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="eec2a941-e0b8-4e0b-ad56-5fce3f82535f")>
+2021-11-02 15:45:04,856 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="eec2a941-e0b8-4e0b-ad56-5fce3f82535f")>
+2021-11-02 15:45:49,821 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 15:45:49,822 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 15:45:49,823 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 15:45:50,368 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 15:45:51,507 INFO [root] [Base.py (base_input_text:29] - 正在输入：WALN
+2021-11-02 15:45:52,129 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 15:45:52,131 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 15:45:53,911 INFO [root] [test_search.py (teardown_class:32] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="c225d138-6e7f-47dd-bef6-f97a4ad3a78e")>
+2021-11-02 15:45:53,913 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="c225d138-6e7f-47dd-bef6-f97a4ad3a78e")>
+2021-11-02 15:48:45,374 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 15:48:45,375 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 15:48:45,376 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 15:48:45,917 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 15:48:47,056 INFO [root] [Base.py (base_input_text:29] - 正在输入：WALN
+2021-11-02 15:48:47,800 INFO [root] [test_search.py (teardown_class:32] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="aa15029f-94be-4b38-bb23-ccf09216ac36")>
+2021-11-02 15:48:47,800 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="aa15029f-94be-4b38-bb23-ccf09216ac36")>
+2021-11-02 15:51:36,876 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 15:51:36,877 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 15:51:36,878 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 15:51:37,402 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 15:51:38,538 INFO [root] [Base.py (base_input_text:29] - 正在输入：WALN
+2021-11-02 15:51:39,313 INFO [root] [test_search.py (teardown_class:32] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="df184d64-abf5-46ed-a68b-3e72d2f3d357")>
+2021-11-02 15:51:39,314 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="df184d64-abf5-46ed-a68b-3e72d2f3d357")>
+2021-11-02 15:54:08,537 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 15:54:08,538 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 15:54:08,538 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 15:54:09,210 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 15:54:10,382 INFO [root] [Base.py (base_input_text:29] - 正在输入：WALN
+2021-11-02 15:54:11,580 INFO [root] [test_search.py (teardown_class:32] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="ec7e18c0-ae33-4e39-ac14-6f9c9bf4a59c")>
+2021-11-02 15:54:11,581 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="ec7e18c0-ae33-4e39-ac14-6f9c9bf4a59c")>
+2021-11-02 15:56:29,545 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 15:56:29,546 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 15:56:29,546 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 15:56:30,096 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 15:56:31,233 INFO [root] [Base.py (base_input_text:29] - 正在输入：WALN
+2021-11-02 15:56:32,344 INFO [root] [test_search.py (teardown_class:33] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="d3ed835d-bd68-436e-91d0-c6ce6a0c2bce")>
+2021-11-02 15:56:32,344 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="d3ed835d-bd68-436e-91d0-c6ce6a0c2bce")>
+2021-11-02 16:00:08,167 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 16:00:08,168 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 16:00:08,170 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 16:00:08,717 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 16:00:09,876 INFO [root] [Base.py (base_input_text:29] - 正在输入：WALN
+2021-11-02 16:00:10,498 INFO [root] [uitilTools.py (get_screenshot_file:64] - 发生错误:assert False，正在截图，请到Image目录下查看
+2021-11-02 16:00:10,967 INFO [root] [test_search.py (teardown_class:33] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="4d967deb-d911-4bd9-8c28-367f44f6bed5")>
+2021-11-02 16:00:10,967 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="4d967deb-d911-4bd9-8c28-367f44f6bed5")>
+2021-11-02 16:58:30,795 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 16:58:30,815 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 16:58:30,816 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 16:58:41,145 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 16:58:41,253 INFO [root] [Base.py (base_input_text:29] - 正在输入：你好
+2021-11-02 16:58:45,283 INFO [root] [util_tools.py (get_screenshot_file:61] - 发生错误:assert False，正在截图，请到Image目录下查看
+2021-11-02 16:58:45,841 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 16:58:45,842 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 16:58:45,842 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 16:58:49,735 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 16:59:17,725 INFO [root] [Base.py (base_input_text:29] - 正在输入：1234
+2021-11-02 16:59:20,931 INFO [root] [util_tools.py (get_screenshot_file:61] - 发生错误:Message: The element 'By.xpath: //*[@class='miui.widget.ClearableEditText']' does not exist in DOM anymore
+，正在截图，请到Image目录下查看
+2021-11-02 16:59:21,562 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 16:59:21,563 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 16:59:21,564 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 16:59:37,823 INFO [root] [util_tools.py (get_screenshot_file:61] - 发生错误:Message: 
+，正在截图，请到Image目录下查看
+2021-11-02 16:59:41,775 INFO [root] [test_search.py (teardown_class:38] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="87a41ca3-66e8-4790-ad25-5cb863a0c7b3")>
+2021-11-02 16:59:41,775 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="87a41ca3-66e8-4790-ad25-5cb863a0c7b3")>
+2021-11-02 17:04:27,968 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 17:04:27,970 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 17:04:27,971 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 17:04:28,605 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 17:04:29,750 INFO [root] [Base.py (base_input_text:29] - 正在输入：你好
+2021-11-02 17:04:30,364 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 17:04:30,366 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 17:04:32,152 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 17:04:32,153 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 17:04:32,153 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 17:04:33,253 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 17:04:33,347 INFO [root] [Base.py (base_input_text:29] - 正在输入：1234
+2021-11-02 17:04:33,869 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 17:04:33,870 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 17:04:35,661 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 17:04:35,663 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 17:04:35,665 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 17:04:36,771 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 17:04:36,863 INFO [root] [Base.py (base_input_text:29] - 正在输入：*&^%
+2021-11-02 17:04:37,396 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 17:04:37,396 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 17:04:39,188 INFO [root] [test_search.py (teardown_class:37] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="bc5b6966-a013-48c7-8258-d10cacbb858a")>
+2021-11-02 17:04:39,190 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="bc5b6966-a013-48c7-8258-d10cacbb858a")>
+2021-11-02 20:35:44,358 INFO [selenium.webdriver.remote.remote_connection] [remote_connection.py (__init__:116] - Could not connect to port 4723 on host 127.0.0.1
+2021-11-02 20:35:44,358 INFO [selenium.webdriver.remote.remote_connection] [remote_connection.py (__init__:135] - Could not get IP address for host: 127.0.0.1
+2021-11-02 20:35:46,390 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:780] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000163978CEF70>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2021-11-02 20:35:48,439 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:780] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000163978CE520>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2021-11-02 20:35:50,490 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:780] - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000163978CE6A0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2021-11-02 20:36:23,090 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 20:36:23,099 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 20:36:23,100 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 20:36:23,635 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 20:36:24,785 INFO [root] [Base.py (base_input_text:29] - 正在输入：你好
+2021-11-02 20:36:25,402 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:36:25,402 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:36:27,152 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 20:36:27,152 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 20:36:27,152 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 20:36:28,248 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 20:36:28,341 INFO [root] [Base.py (base_input_text:29] - 正在输入：1234
+2021-11-02 20:36:28,858 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:36:28,858 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:36:30,609 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 20:36:30,609 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 20:36:30,624 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 20:36:31,712 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 20:36:31,806 INFO [root] [Base.py (base_input_text:29] - 正在输入：*&^%
+2021-11-02 20:36:32,315 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:36:32,315 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:36:34,105 INFO [root] [test_search.py (teardown_class:37] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="d89cb119-b0a4-4ee2-b9a8-27702f30d96e")>
+2021-11-02 20:36:34,105 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="d89cb119-b0a4-4ee2-b9a8-27702f30d96e")>
+2021-11-02 20:56:55,135 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 20:56:55,137 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 20:56:55,137 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 20:56:55,816 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 20:56:56,934 INFO [root] [Base.py (base_input_text:29] - 正在输入：你好
+2021-11-02 20:56:57,768 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:56:57,768 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:56:59,741 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 20:56:59,742 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 20:56:59,743 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 20:57:00,829 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 20:57:00,924 INFO [root] [Base.py (base_input_text:29] - 正在输入：1234
+2021-11-02 20:57:01,444 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:57:01,444 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:57:03,236 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 20:57:03,238 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 20:57:03,238 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 20:57:04,917 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 20:57:04,998 INFO [root] [Base.py (base_input_text:29] - 正在输入：*&^%
+2021-11-02 20:57:05,525 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:57:05,525 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:57:07,293 INFO [root] [test_search.py (teardown_class:37] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="1cf98e69-261d-4764-ab3f-e117ce040dd9")>
+2021-11-02 20:57:07,294 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="1cf98e69-261d-4764-ab3f-e117ce040dd9")>
+2021-11-02 20:57:55,079 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 20:57:55,080 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 20:57:55,081 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 20:57:55,751 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 20:57:56,883 INFO [root] [Base.py (base_input_text:29] - 正在输入：你好
+2021-11-02 20:57:57,497 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:57:57,497 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:57:59,744 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 20:57:59,745 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 20:57:59,745 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 20:58:00,835 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 20:58:00,920 INFO [root] [Base.py (base_input_text:29] - 正在输入：1234
+2021-11-02 20:58:01,442 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:58:01,457 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:58:03,221 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 20:58:03,222 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 20:58:03,223 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 20:58:04,324 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 20:58:04,418 INFO [root] [Base.py (base_input_text:29] - 正在输入：*&^%
+2021-11-02 20:58:04,947 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:58:04,947 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 20:58:06,730 INFO [root] [test_search.py (teardown_class:37] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="2cf426ba-755a-4cd2-906a-3afadc7a10da")>
+2021-11-02 20:58:06,731 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="2cf426ba-755a-4cd2-906a-3afadc7a10da")>
+2021-11-02 22:17:18,047 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 22:17:18,050 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 22:17:18,050 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 22:17:18,717 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 22:17:19,852 INFO [root] [Base.py (base_input_text:29] - 正在输入：你好
+2021-11-02 22:17:20,466 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 22:17:20,466 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 22:17:22,252 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 22:17:22,254 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 22:17:22,254 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 22:17:23,353 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 22:17:23,453 INFO [root] [Base.py (base_input_text:29] - 正在输入：1234
+2021-11-02 22:17:23,976 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 22:17:23,977 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 22:17:25,758 INFO [root] [Base.py (__init__:13] - 初始化driver:None
+2021-11-02 22:17:25,759 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-02 22:17:25,759 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-02 22:17:26,839 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-02 22:17:26,941 INFO [root] [Base.py (base_input_text:29] - 正在输入：*&^%
+2021-11-02 22:17:27,461 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 22:17:27,462 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-02 22:17:29,248 INFO [root] [test_search.py (teardown_class:37] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="7638df12-e493-4f07-9057-cdae1ada8c42")>
+2021-11-02 22:17:29,249 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="7638df12-e493-4f07-9057-cdae1ada8c42")>
+2021-11-03 12:50:29,775 INFO [selenium.webdriver.remote.remote_connection] [remote_connection.py (__init__:117] - Could not connect to port 4723 on host 127.0.0.1
+2021-11-03 12:50:29,776 INFO [selenium.webdriver.remote.remote_connection] [remote_connection.py (__init__:136] - Could not get IP address for host: 127.0.0.1
+2021-11-03 12:50:31,782 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:781] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A42D419860>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2021-11-03 12:50:33,789 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:781] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A42D419A58>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2021-11-03 12:50:35,792 WARNING [urllib3.connectionpool] [connectionpool.py (urlopen:781] - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002A42D419C18>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /wd/hub/session
+2021-11-03 17:15:08,139 INFO [root] [util_tools.py (get_screenshot_file:61] - 发生错误:'Base' object has no attribute 'driver'，正在截图，请到Image目录下查看
+2021-11-03 17:15:09,011 INFO [root] [util_tools.py (get_screenshot_file:61] - 发生错误:'Base' object has no attribute 'driver'，正在截图，请到Image目录下查看
+2021-11-03 17:15:09,360 INFO [root] [util_tools.py (get_screenshot_file:61] - 发生错误:'Base' object has no attribute 'driver'，正在截图，请到Image目录下查看
+2021-11-03 17:15:09,701 INFO [root] [test_search.py (teardown_class:35] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="ca58b946-2ecf-42ee-9a33-07f537d5e6ea")>
+2021-11-03 17:15:09,701 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="ca58b946-2ecf-42ee-9a33-07f537d5e6ea")>
+2021-11-03 17:15:57,411 INFO [root] [Base.py (__init__:14] - 初始化driver:<appium.webdriver.webdriver.WebDriver (session="ca5ea093-f682-45d8-8072-c2a85bf12340")>
+2021-11-03 17:15:57,424 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-03 17:15:57,425 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-03 17:15:59,021 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-03 17:15:59,128 INFO [root] [Base.py (base_input_text:29] - 正在输入：你好
+2021-11-03 17:15:59,752 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-03 17:15:59,754 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-03 17:16:01,641 INFO [root] [Base.py (__init__:14] - 初始化driver:<appium.webdriver.webdriver.WebDriver (session="ca5ea093-f682-45d8-8072-c2a85bf12340")>
+2021-11-03 17:16:01,643 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-03 17:16:01,644 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-03 17:16:02,729 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-03 17:16:02,806 INFO [root] [Base.py (base_input_text:29] - 正在输入：1234
+2021-11-03 17:16:03,327 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-03 17:16:03,328 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-03 17:16:05,129 INFO [root] [Base.py (__init__:14] - 初始化driver:<appium.webdriver.webdriver.WebDriver (session="ca5ea093-f682-45d8-8072-c2a85bf12340")>
+2021-11-03 17:16:05,131 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('id', 'android:id/input')
+2021-11-03 17:16:05,132 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('id', 'android:id/input')
+2021-11-03 17:16:06,219 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[@class='miui.widget.ClearableEditText']")
+2021-11-03 17:16:06,324 INFO [root] [Base.py (base_input_text:29] - 正在输入：*&^%
+2021-11-03 17:16:06,850 INFO [root] [Base.py (base_click_element:22] - 正在点击元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-03 17:16:06,852 INFO [root] [Base.py (base_find_element:17] - 正在查找元素：('xpath', "//*[contains(@text, '取消')]")
+2021-11-03 17:16:08,639 INFO [root] [test_search.py (teardown_class:35] - 正在结束driver：<appium.webdriver.webdriver.WebDriver (session="ca5ea093-f682-45d8-8072-c2a85bf12340")>
+2021-11-03 17:16:08,641 INFO [root] [Get_Driver.py (quit_driver:26] - 正在结束driver:<appium.webdriver.webdriver.WebDriver (session="ca5ea093-f682-45d8-8072-c2a85bf12340")>

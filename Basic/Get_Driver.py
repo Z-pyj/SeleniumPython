@@ -1,3 +1,5 @@
+import os
+
 from appium import webdriver
 from Tools.get_log import GatLog
 
@@ -12,9 +14,14 @@ class GetDriver:
     # 获取driver
     @classmethod
     def init_driver(cls):
-        # 启动参数
+        # # 设置启动参数
+        # desired_caps = {'platformName': 'Android', 'platformVersion': '11', 'noReset': True, 'deviceName': os.system("adb devices"),
+        #                 'appPackage': 'com.android.settings', 'appActivity': '.MainSettings',
+        #                 'automationName': 'UIAutomator2', 'unicodeKeyboard': True, 'resetKeyboard': True}
+
+        # 积坔启动参数
         desired_caps = {'platformName': 'Android', 'platformVersion': '11', 'noReset': True, 'deviceName': 'b8b46013',
-                        'appPackage': 'com.android.settings', 'appActivity': '.MainSettings',
+                        'appPackage': 'com.liinji.liinjias.test', 'appActivity': 'activity.SplashActivity',
                         'automationName': 'UIAutomator2', 'unicodeKeyboard': True, 'resetKeyboard': True}
         # 手机驱动对象
         cls.driver = webdriver.Remote("http://127.0.0.1:4723/wd/hub", desired_caps)
