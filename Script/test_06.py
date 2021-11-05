@@ -108,3 +108,26 @@ prices = {
     'HPQ': 37.20,
     'FB': 10.75
 }
+# 查找最小和最大股票价格和股票值的key
+min_prices = min(zip(prices.values(), prices.keys()))
+print(min_prices)
+
+# sorted()排序
+sorted_prices = sorted(zip(prices.values(), prices.keys()))
+print(sorted_prices)
+
+# 获取最小值或最大值对应的键的信息
+min_key = min(prices, key=lambda k: prices[k])
+print(min_key)
+
+# 两个字典中寻寻找相同点（比如相同的键、相同的值等等）
+a = {
+    'x': 1,
+    'y': 2,
+    'z': 3
+}
+b = {
+    'w': 10,
+    'x': 11,
+    'y': 2
+}
