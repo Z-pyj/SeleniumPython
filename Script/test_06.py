@@ -131,3 +131,19 @@ b = {
     'x': 11,
     'y': 2
 }
+# 字典相同的key
+dict_key = a.keys() & b.keys()
+print(dict_key)
+
+# 字典key值不相同
+dict_nokey = a.keys() - b.keys()
+
+# 字典键值对相同
+dict_items = a.items() & b.items()
+
+print(dict_nokey)
+print(dict_items)
+
+# 排除指定键
+var = {keys: a[keys] for keys in a.keys() - {"z", "w"}}
+print(var)
