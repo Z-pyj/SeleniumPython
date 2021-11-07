@@ -1,6 +1,9 @@
 search_test_001: # 用例编号
+ key: 1
  input_text: "你好" # 测试输入数据
 search_test_002:
+ key: ""
  input_text: "1234"
 search_test_003:
+ key: 3
  input_text: "*&^%"
