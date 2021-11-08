@@ -105,3 +105,16 @@ prices = {
 }
 p1 = {key: value for key, value in prices.items() if value > 100}
 print(p1)  # {'AAPL': 612.78, 'IBM': 205.55}
+
+# 转换并同时计算数据
+# 一个非常优雅的方式去结合数据计算与转换就是使用一个生成器表达式参数
+
+portfolio = [
+    {'name': 'GOOG', 'shares': 50},
+    {'name': 'YHOO', 'shares': 75},
+    {'name': 'AOL', 'shares': 20},
+    {'name': 'SCOX', 'shares': 65}
+]
+min_shares = min(n['shares'] for n in portfolio)
+print(min_shares)
+
